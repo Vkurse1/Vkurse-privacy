@@ -1,8 +1,8 @@
-# Privacy Policy for ВКурсе
+# Privacy Policy for ВКурсе-валют
 
 **Effective Date:** February 19, 2026
 
-At **ВКурсе**, we value your privacy. This policy explains how we handle your data.
+At **ВКурсе-валют**, we value your privacy. This policy explains how we handle your data.
 
 ## 1. Information Collection
 We do **not** collect, store, or share any personal information. 
@@ -17,7 +17,7 @@ We do not use any third-party analytics services to track your usage.
 
 ## 4. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-[Support Email]
+duck.power.cpa@gmail.com
 
 ---
 *This privacy policy is subject to change. Any changes will be posted on this page.*
